@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kumaravadivel Tractor Auto Parts</string>
+    <string name="login">Login</string>
+    <string name="phone_email">Phone Number / Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome to Kumaravadivel Tractor Auto Parts</string>
+    <string name="select_tractor_model">Select Tractor Model</string>
+    <string name="view_auto_parts">View Auto Parts</string>
+    <string name="dealer_information">Dealer Information</string>
+    <string name="profile">Profile</string>
+    <string name="search_parts">Search parts...</string>
+    <string name="available">Available</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="call_dealer">Call Dealer</string>
+    <string name="select_brand">Select Brand</string>
+    <string name="select_model">Select Model</string>
+    <string name="continue_btn">Continue</string>
+    <string name="compatible_models">Compatible Tractor Models</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="stock_status">Stock Status</string>
+</resources>

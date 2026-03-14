@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "822163369825",
+    "project_id": "tractorparts-aa23a",
+    "storage_bucket": "tractorparts-aa23a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822163369825:android:809236a3223367090e5f20",
+        "android_client_info": {
+          "package_name": "com.kumaravadivel.tractorautoparts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822163369825-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwU-PcrdMa_KQepM1JiTnDmIy7A8JU-Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
